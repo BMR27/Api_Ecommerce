@@ -1,2 +1,2 @@
 # Api_Ecommerce
-Api para Ecoomerce hecho en angular
+Api para Ecommerce hecho en angular
